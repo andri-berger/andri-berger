@@ -1,0 +1,2 @@
+montage Frame/*.jpg -background none -geometry 300x300^+4+4 -gravity center -extent 1800x1800 -tile 12x readme.png
+montage Frames/*.jpg -background none -geometry 300x300^+3+3 -gravity center -extent 1800x1800 -tile 12x readmes.png

@@ -1,0 +1,11 @@
+.idea/
+.venv/
+.cache
+.cache/
+.temp/
+temp/
+.env
+*.pem
+*.key
+*.log
+*.tmp
