@@ -1,1 +1,1 @@
-![Readme](output-0.png)
+![Readme](outputs.png)
