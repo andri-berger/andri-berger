@@ -11,7 +11,7 @@ INPUT_DIR="input_images"
 OUTPUT_DIR="output_mosaics"
 mkdir -p "$OUTPUT_DIR"
 
-for img in "$INPUT_DIR"/*.{jpg,jpeg,png}; do
+for img in "$INPUT_DIR"/*.{jpg,png,avif}; do
     [ -e "$img" ] || continue
 
     filename=$(basename "$img")
